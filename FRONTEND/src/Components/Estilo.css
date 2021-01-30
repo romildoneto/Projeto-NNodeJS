@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ .container-fluid{
+    background-color:rgb(228, 15, 15);
+    padding: 1%;
+    border-radius: 5px;
+} 
+
+.link{
+color:white;
+font-size: 3vh;
+margin-left: 5%;
+    margin-right: 5%;
+    padding: 3px 15px 3px 15px;
+}
+
+.main{
+    margin-left: 3%;
+    margin-top: 2%;
+    color: blue;
+} 
+   
+.Footer{
+margin-top:50px;
+text-align: center;
+color: red;
+font-size: 20px;
+ }
+  
+h1,h2{
+    margin-left: 3%;
+    font-size:10%; 
+   
+}
+
+.local{
+    margin-top:150px;
+    margin-left: 3%;
+    color:blue;   
+}
+
+
+/* pagina de produtos */
+.categoriaprodutos{
+margin-left: 2%;
+}
+.celula{
+    font-size: 11.5px;
+    text-align: center;
+    overflow: hidden; 
+    max-height: 295px;
+}
+      
+.informacoes_do_produto{
+    width:200px;
+}
+
+.preco_antigo{
+    text-decoration: line-through;
+    font-size: 12px;
+}
+
+.preco{
+    color:red;
+    font-size: 13.5px;
+    margin-top: 0;
+}
+  
+.preco{
+    color:red;
+    font-size: 13.5px;
+    margin-top: 0;
+  }
+  
+  div.container-margem{
+    margin-top:-200px;
+    margin-left:180px;
+   
+  }
+  
+
+
+.container-card{
+    text-align: center;
+    display: flex;
+  justify-content: center; 
+}
+
+/* .card-content{
+    margin: 5%;
+    color:blue; 
+}  */
+
+.container-pedido{
+    width: 50%;
+    margin-left: 100px;
+}
+
+.card{
+margin:1%;
+margin-left:5%;
+}
+img{
+    width: 130px;  
+}
+
+.logocontato{
+     width: 70px; 
+    
+}
+
